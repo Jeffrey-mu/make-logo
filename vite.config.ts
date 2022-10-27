@@ -69,7 +69,7 @@ export default defineConfig({
     Unocss(),
 
     // https://github.com/antfu/vite-plugin-vue-markdown
-    // Don't need this? Try vitesse-lite: https://github.com/Jeffrey-mu/vitesse-lite
+    // Don't need this? Try vitesse-lite: https://github.com/Jeffrey-mu/make-logo-lite
     Markdown({
       wrapperClasses: markdownWrapperClasses,
       headEnabled: true,

@@ -17,7 +17,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/Jeffrey-mu/vitesse/blob/main/README.md">English</a> | <b>简体中文</b>
+<a href="https://github.com/Jeffrey-mu/make-logo/blob/main/README.md">English</a> | <b>简体中文</b>
 </p>
 
 <br>
@@ -117,10 +117,10 @@
 
 ###### 官方
 
-- [vitesse-lite](https://github.com/Jeffrey-mu/vitesse-lite) - Vitesse 的轻量版本
-- [vitesse-nuxt3](https://github.com/Jeffrey-mu/vitesse-nuxt3) - Vitesse 的 Nuxt 3 版本
-- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/vitesse-nuxt-bridge) - Vitesse 的 Nuxt2 桥接版本
-- [vitesse-webext](https://github.com/Jeffrey-mu/vitesse-webext) - 开箱即用的浏览器扩展 vite 模板
+- [vitesse-lite](https://github.com/Jeffrey-mu/make-logo-lite) - Vitesse 的轻量版本
+- [vitesse-nuxt3](https://github.com/Jeffrey-mu/make-logo-nuxt3) - Vitesse 的 Nuxt 3 版本
+- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/make-logo-nuxt-bridge) - Vitesse 的 Nuxt2 桥接版本
+- [vitesse-webext](https://github.com/Jeffrey-mu/make-logo-webext) - 开箱即用的浏览器扩展 vite 模板
 
 ###### 社区
 
@@ -132,7 +132,7 @@
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/Jeffrey-mu/vitesse/generate).
+[使用这个模板创建仓库](https://github.com/Jeffrey-mu/make-logo/generate).
 
 ### 克隆到本地
 

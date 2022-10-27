@@ -15,7 +15,7 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 <br>
 
 <p align='center'>
-<b>English</b> | <a href="https://github.com/Jeffrey-mu/vitesse/blob/main/README.zh-CN.md">简体中文</a>
+<b>English</b> | <a href="https://github.com/Jeffrey-mu/make-logo/blob/main/README.zh-CN.md">简体中文</a>
 <!-- Contributors: Thanks for geting interested, however we DON'T accept new transitions to the README, thanks. -->
 </p>
 
@@ -119,10 +119,10 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
-- [vitesse-lite](https://github.com/Jeffrey-mu/vitesse-lite) - Lightweight version of Vitesse
-- [vitesse-nuxt3](https://github.com/Jeffrey-mu/vitesse-nuxt3) - Vitesse for Nuxt 3
-- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
-- [vitesse-webext](https://github.com/Jeffrey-mu/vitesse-webext) - WebExtension Vite starter template
+- [vitesse-lite](https://github.com/Jeffrey-mu/make-logo-lite) - Lightweight version of Vitesse
+- [vitesse-nuxt3](https://github.com/Jeffrey-mu/make-logo-nuxt3) - Vitesse for Nuxt 3
+- [vitesse-nuxt-bridge](https://github.com/Jeffrey-mu/make-logo-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
+- [vitesse-webext](https://github.com/Jeffrey-mu/make-logo-webext) - WebExtension Vite starter template
 
 ###### Community
 
@@ -142,7 +142,7 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/Jeffrey-mu/vitesse/generate).
+[Create a repo from this template on GitHub](https://github.com/Jeffrey-mu/make-logo/generate).
 
 ### Clone to local
 
